@@ -1,0 +1,76 @@
+{
+  "name": "theme",
+  "description": "theme",
+  "authors": [
+    {
+      "name": "me"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#190275"],
+    "HEADER_SECONDARY": ["#190275"],
+    "TEXT_NORMAL": ["#F3E8FF"],
+    "TEXT_MUTED": ["#5E5E5E"],
+    "TEXT_LINK": ["#6fcad6"],
+    "INTERACTIVE_NORMAL": ["#85bff2"],
+    "INTERACTIVE_HOVER": ["#50a0e6],
+    "INTERACTIVE_ACTIVE": ["#8eabfa"],
+    "INTERACTIVE_MUTED": ["#535160"],
+    "BACKGROUND_PRIMARY": ["#0A0A0A"],
+    "BACKGROUND_SECONDARY": ["#222222"],
+    "BACKGROUND_SECONDARY_ALT": ["#222222"],
+    "BACKGROUND_TERTIARY": ["#0A0A0A"],
+    "BACKGROUND_ACCENT": ["#634A70"],
+    "BACKGROUND_FLOATING": ["#222222"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#222222"],
+    "BACKGROUND_NESTED_FLOATING": ["#0A0A0A"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#42457d"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#426c7d"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#484848"],
+    "SCROLLBAR_THIN_THUMB": ["#26273b"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#b3cbda"],
+    "SCROLLBAR_AUTO_TRACK": ["#b3cbda"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
+    "CHANNELS_DEFAULT": ["#2c3478"],
+    "TEXT_DANGER": ["#FC0E61"],
+    "KEYBOARD": ["#0A0A0A"],
+    "CHANNEL_ICON": ["#b4b3c6"],
+    "CHAT_BACKGROUND": ["#0A0A0A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#4B4B4B"],
+    "SPOILER_REVEALED_BACKGROUND": ["#5E5E5E"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#6f7ad6",
+    "PRIMARY_200": "#7d7594",
+    "PRIMARY_300": "#443aba",
+    "PRIMARY_360": "#72caf0",
+    "PRIMARY_400": "#4e14ee",
+    "PRIMARY_500": "#3a4a70",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#2F2F2F",
+    "PRIMARY_660": "#2F2F2F",
+    "PRIMARY_700": "#0A0A0A",
+    "PRIMARY_800": "#0A0A0A",
+
+    "BRAND_260": #7aa3c2",
+    "BRAND_360": "#7cc0c4",
+    "BRAND_500": "#6fa8b3",
+    "BRAND_560": "#509da6",
+    "WHITE_500": "#94cfeb",
+    "YELLOW_300": "#6995e0",
+    "GREEN_360": "#474bc9",
+    "RED_400": "#FC0E61"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://wallpapercat.com/w/full/e/8/b/118129-2160x3840-phone-4k-your-name-wallpaper.jpg",
+    "alpha": 0.9,
+    "color": "#0A0A0A"
+  }
+}
